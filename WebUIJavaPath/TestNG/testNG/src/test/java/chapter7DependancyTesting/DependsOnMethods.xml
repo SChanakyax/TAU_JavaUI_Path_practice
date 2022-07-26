@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sandeep Chanakya Suite">
+    <test thread-count="5" name="Depends On Methods Attribute Test">
+        <classes>
+            <class name="chapter7DependancyTesting.DependsOnMethodAttribute">
+                <methods>
+                    <exclude name="test4_SearchUser"></exclude>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5533e03b-8af0-4fb0-8114-fdcacd68713d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TestNG Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2CSl9ieYWAwGHDpQdsdhDgs9CAB" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "TestNG",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG": "",
+    "last_opened_file_path": "C:/Users/SC/Documents/JavaWebProject/Mokito_testAutomation/mockito-core-4.6.1.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3816092"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="bankService" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="bankService" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CheckingAccountTest.processingCheckWithNotificationsEnabled_DecreaseBalanceAndSendsMessage">
+    <configuration name="CheckingAccountTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankService" />
+      <option name="MAIN_CLASS_NAME" value="bankService.CheckingAccountTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckingAccountTest.processingCheckWithNotificationsEnabled_DecreaseBalanceAndSendsMessage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankService" />
+      <option name="MAIN_CLASS_NAME" value="bankService.CheckingAccountTest" />
+      <option name="METHOD_NAME" value="processingCheckWithNotificationsEnabled_DecreaseBalanceAndSendsMessage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckingAccountTest.processingCheckWithSufficientFunds_DecreasesBalanceByAmount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankService" />
+      <option name="MAIN_CLASS_NAME" value="bankService.CheckingAccountTest" />
+      <option name="METHOD_NAME" value="processingCheckWithSufficientFunds_DecreasesBalanceByAmount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SavingsAccountTest.withdrawingAmountGreaterThanBalance_Throws_InsufficientFundsException" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankService" />
+      <option name="MAIN_CLASS_NAME" value="bankService.SavingsAccountTest" />
+      <option name="METHOD_NAME" value="withdrawingAmountGreaterThanBalance_Throws_InsufficientFundsException" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SavingsAccountTest.withdrawingValidAmountFromSavingsAccount_DecreasesBalanceByAmount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankService" />
+      <option name="MAIN_CLASS_NAME" value="bankService.SavingsAccountTest" />
+      <option name="METHOD_NAME" value="withdrawingValidAmountFromSavingsAccount_DecreasesBalanceByAmount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CheckingAccountTest.processingCheckWithNotificationsEnabled_DecreaseBalanceAndSendsMessage" />
+        <item itemvalue="TestNG.CheckingAccountTest" />
+        <item itemvalue="TestNG.CheckingAccountTest.processingCheckWithSufficientFunds_DecreasesBalanceByAmount" />
+        <item itemvalue="TestNG.SavingsAccountTest.withdrawingAmountGreaterThanBalance_Throws_InsufficientFundsException" />
+        <item itemvalue="TestNG.SavingsAccountTest.withdrawingValidAmountFromSavingsAccount_DecreasesBalanceByAmount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5533e03b-8af0-4fb0-8114-fdcacd68713d" name="Changes" comment="" />
+      <created>1658803717975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658803717975</updated>
+    </task>
+    <servers />
+  </component>
+</project>

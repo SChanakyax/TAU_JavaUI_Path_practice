@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Automation Suite">
+    <test name="All Groups Test">
+        <groups>
+            <run>
+                <include name="regression">
+
+                </include>
+            </run>
+        </groups>
+        <classes>
+            <class name="chapter7DependancyTesting.AmazoneFakeSiteGroupTest"/>
+        </classes>
+    </test> <!-- All Groups Test -->
+</suite> <!-- Test Automation Suite -->
+
+

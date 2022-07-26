@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"bankApplication"},{"l":"bankService"},{"l":"bankService.exceptions"},{"l":"notificationService"}];updateSearchResults();
