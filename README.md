@@ -46,3 +46,6 @@ Continuous Integration with Jenkins
 #What I have learned
 Java,TestNG,Jenkins,Cucumber,Continuous Integration, Selenium 4, Selenium WebDriver, Visual Testing with AppliTools, Cypress basics
 Git, Selenium WebDriver, Basic knowledge of Docker and Devops.
+
+
+Test Automation University Profile :- https://testautomationu.applitools.com/me.html#sandeep-chanakya1656560343749
